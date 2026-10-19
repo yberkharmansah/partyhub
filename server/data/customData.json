@@ -1,0 +1,956 @@
+{
+  "spy": {
+    "turk_kulturu_yemekler": {
+      "name": "Türk Kültürü & Lezzetler",
+      "items": [
+        "İskender Kebap",
+        "Lahmacun & Ayran",
+        "Adıyaman Çiğ Köftesi",
+        "Antep Baklavası",
+        "Türk Kahvesi & Fal Seansı",
+        "Kısır & Altın Günü",
+        "Kız İsteme Merasimi (Tuzlu Kahve)",
+        "Sabah Metrobüs Yolculuğu",
+        "Gece Kokoreççisi",
+        "Kayseri Mantısı",
+        "Vapurda Simit & Çay",
+        "Konvoylu Asker Uğurlaması",
+        "Bayramda El Öpme & Harçlık",
+        "Kına Gecesi Testi Kırma",
+        "Öğrenci Usulü Tavuk Döner",
+        "Menemen (Soğanlı/Soğansız Tartışması)",
+        "Kahvehanede Okey Masası",
+        "Mahalle Pazarı Alışverişi",
+        "Hatay Künefesi",
+        "Adana Kebap",
+        "Kumpir (Ortaköy)",
+        "Midye Dolma Tezgahı",
+        "Ramazan Pidesi Kuyruğu",
+        "Sahilde Çekirdek Çitleme",
+        "Islak Hamburger",
+        "Balkonda Mangal Keyfi",
+        "Halay Başında Mendil Sallama",
+        "Anne Terliği",
+        "Çeyiz Sandığı Açılışı",
+        "Pazar Kahvaltısı"
+      ],
+      "id": "turk_kulturu_yemekler",
+      "description": "Geleneksel lezzetler, alışkanlıklar ve kültürel ritüeller (30 Kart)",
+      "icon": "Utensils"
+    },
+    "gunluk_krizler_olaylar": {
+      "description": "Herkesin başına gelebilecek absürt ve tanıdık sosyal kriz anları (28 Kart)",
+      "icon": "Flame",
+      "id": "gunluk_krizler_olaylar",
+      "items": [
+        "Yanlış Kişiye Dedikodu Mesajı Atmak",
+        "İlk Buluşmada Cüzdanı Evde Unutmak",
+        "Misafirlikte Tuvaleti Tıkamak",
+        "Sınavda Kopya Çekerken Göz Göze Gelmek",
+        "Asansörde Yabancılarla Mahsur Kalmak",
+        "Eski Sevgilinin Fotoğrafını Yanlışlıkla Beğenmek",
+        "Zoom Toplantısında Mikrofonu Açık Unutmak",
+        "Kuaförde Saçın İstediğinden Çok Farklı Kesilmesi",
+        "Düğünde Gelinle Aynı Renk Elbise Giymek",
+        "Otobüs Durağında Yanlış Otobüse Binmek",
+        "Gece Yarısı Mutfakta Tencere Düşürmek",
+        "İsmini Unuttuğun Biriyle Uzun Uzun Sohbet Etmek",
+        "Telefonu Tuvalete Düşürmek",
+        "Maaşın Yattığı Gün Bitmesi",
+        "Alarm Kurmayı Unutup İşe/Okula Geç Kalmak",
+        "Misafir Çocuğunun Bilgisayarı Bozması",
+        "Kalabalıkta Düz Yolda Takılıp Düşmek",
+        "Restoranda Hesap Gelince Tuvalete Kaçan Arkadaş",
+        "Grup Sohbetinden Yanlışlıkla Çıkmak",
+        "Anneden Gelen 15 Cevapsız Çağrı",
+        "Kulaklık Takılı Sanıp Otobüste Müzik Açmak",
+        "Yeni Alınan Beyaz Tişörte Salça Damlaması",
+        "Yol Tarifi Verirken Yanlış Yöne Göndermek",
+        "Sinema Salonunda Yanlış Koltuğa Oturmak",
+        "Kargocu Geldiğinde Duşta Olmak",
+        "Yemek Siparişinin 2 Saat Gelmemesi",
+        "Tatilde Güneş Kremi Sürmeden Uyuyakalmak",
+        "Bayramda Akrabaların \"Ne Zaman Evleniyorsun?\" Sorusu"
+      ],
+      "name": "Komik Durumlar & Krizler"
+    },
+    "meslekler_roller": {
+      "id": "meslekler_roller",
+      "icon": "Briefcase",
+      "name": "Meslekler & Karakterler",
+      "description": "Farklı meslek grupları ve sıra dışı unvanlar (30 Kart)",
+      "items": [
+        "Yazılımcı / Developer",
+        "İstanbul Taksi Şoförü",
+        "Süper Lig Futbol Hakemi",
+        "Özel Dedektif",
+        "Astronot",
+        "Mahalle Emlakçısı",
+        "Sosyal Medya Fenomeni (Influencer)",
+        "Orkestra Şefi",
+        "İtfaiyeci",
+        "Beyin Cerrahı",
+        "Yolcu Uçağı Pilotu",
+        "Stand-up Komedyeni",
+        "Arkeolog",
+        "Kripto & Borsa Yatırımcısı",
+        "Dövme Sanatçısı",
+        "Michelin Yıldızlı Şef",
+        "İllüzyonist / Sihirbaz",
+        "Beden Eğitimi Öğretmeni",
+        "Ana Haber Spikeri",
+        "Magazin Paparazzisi",
+        "Gece Bekçisi",
+        "Düğün Fotoğrafçısı",
+        "Oto Sanayi Ustası",
+        "Müşteri Hizmetleri Temsilcisi",
+        "Kargo Kuryesi",
+        "Yat Kaptanı",
+        "Bomba İmha Uzmanı",
+        "Dublör",
+        "Müzayede Sunucusu",
+        "Astrolog"
+      ]
+    },
+    "filmler_diziler": {
+      "items": [
+        "Inception (Başlangıç)",
+        "Yüzüklerin Efendisi",
+        "Harry Potter",
+        "Breaking Bad",
+        "Game of Thrones",
+        "Matrix",
+        "G.O.R.A.",
+        "Kurtlar Vadisi",
+        "Aşk-ı Memnu",
+        "Stranger Things",
+        "Avrupa Yakası",
+        "Behzat Ç.",
+        "Interstellar (Yıldızlararası)",
+        "Squid Game",
+        "Star Wars",
+        "Leyla ile Mecnun",
+        "Recep İvedik",
+        "Titanik",
+        "Karayip Korsanları",
+        "Örümcek Adam (Spider-Man)",
+        "Ezel",
+        "Hababam Sınıfı",
+        "Baba (The Godfather)",
+        "Kuzuların Sessizliği",
+        "Dövüş Kulübü (Fight Club)",
+        "Sherlock",
+        "La Casa de Papel",
+        "Peaky Blinders",
+        "Kış Uykusu",
+        "Vizontele",
+        "Yahşi Batı",
+        "Gibi"
+      ],
+      "icon": "Film",
+      "description": "Kült filmler, popüler diziler, Yeşilçam ve unutulmaz yapımlar (32 Kart)",
+      "id": "filmler_diziler",
+      "name": "Filmler & Diziler"
+    },
+    "anime_cizgi_dunya": {
+      "icon": "Sparkles",
+      "id": "anime_cizgi_dunya",
+      "description": "Popüler animeler, çizgi diziler ve animasyon efsaneleri (28 Kart)",
+      "name": "Anime & Çizgi Dünyası",
+      "items": [
+        "Attack on Titan (Shingeki no Kyojin)",
+        "Death Note",
+        "One Piece",
+        "Naruto",
+        "Dragon Ball Z",
+        "Demon Slayer (Kimetsu no Yaiba)",
+        "Jujutsu Kaisen",
+        "Fullmetal Alchemist: Brotherhood",
+        "Avatar: Son Hava Bükücü",
+        "Rick and Morty",
+        "SüngerBob KareŞort",
+        "Shrek",
+        "Oyuncak Hikayesi (Toy Story)",
+        "Aslan Kral (The Lion King)",
+        "Buz Devri (Ice Age)",
+        "Pokémon",
+        "Ben 10",
+        "Samurai Jack",
+        "Esrarengiz Kasaba (Gravity Falls)",
+        "Şirinler",
+        "Tom ve Jerry",
+        "Scooby-Doo",
+        "Ruhların Kaçışı (Spirited Away)",
+        "Örümcek-Adam: Örümcek Evreninde",
+        "Kung Fu Panda",
+        "Ejderhanı Nasıl Eğitirsin",
+        "Arcane",
+        "Cyberpunk: Edgerunners"
+      ]
+    },
+    "video_oyunlari": {
+      "name": "Video Oyunları",
+      "description": "Efsanevi PC, konsol, mobil ve internet kafe klasikleri (32 Kart)",
+      "items": [
+        "Grand Theft Auto V (GTA 5)",
+        "League of Legends (LoL)",
+        "Valorant",
+        "Counter-Strike 2 (CS2)",
+        "Minecraft",
+        "The Witcher 3",
+        "Red Dead Redemption 2",
+        "EA Sports FC / FIFA",
+        "PUBG",
+        "Elden Ring",
+        "Knight Online",
+        "Metin2",
+        "Among Us",
+        "Skyrim",
+        "God of War",
+        "Cyberpunk 2077",
+        "Mount & Blade II: Bannerlord",
+        "Brawl Stars",
+        "The Sims 4",
+        "Baldur's Gate 3",
+        "Half-Life",
+        "Age of Empires II",
+        "Need for Speed: Underground 2",
+        "GTA: Vice City",
+        "Resident Evil 4",
+        "The Last of Us",
+        "Clash Royale",
+        "Football Manager (FM)",
+        "World of Warcraft",
+        "Dota 2",
+        "Rust",
+        "Lethal Company"
+      ],
+      "id": "video_oyunlari",
+      "icon": "Gamepad2"
+    },
+    "mekanlar": {
+      "icon": "MapPin",
+      "id": "mekanlar",
+      "items": [
+        "Havalimanı Dış Hatlar",
+        "Hastane Acil Servisi",
+        "Düğün Salonu",
+        "Askeri Kışla",
+        "Üniversite Kantini",
+        "Korsan Gemisi",
+        "Uluslararası Uzay İstasyonu",
+        "Halı Saha Tesisleri",
+        "Öğrenci Evi",
+        "Kapalıçarşı",
+        "Lunapark Korku Tüneli",
+        "Sinema Salonu",
+        "Mahalle Berberi",
+        "Nükleer Denizaltı",
+        "Polis Karakolu Nezarethanesi",
+        "Vahşi Batı Saloonu",
+        "Halk Plajı",
+        "Milli Kütüphane",
+        "Stadyum Tribünü",
+        "Arkeoloji Müzesi",
+        "Otobüs Terminali (Otogar)",
+        "AVM Yemek Katı",
+        "Ehliyet Sınav Alanı",
+        "Fitness & Spor Salonu",
+        "Kutuplar Araştırma Üssü",
+        "Hayvanat Bahçesi",
+        "İnternet Kafe",
+        "Sosyetik Gece Kulübü",
+        "Kamp Alanı",
+        "Buharlı Hamam"
+      ],
+      "name": "Mekânlar & Yerler",
+      "description": "Günlük hayattan, tatilden veya sıra dışı ortamlardan yerler (30 Kart)"
+    },
+    "tarih_mitoloji": {
+      "items": [
+        "Truva Atı Efsanesi",
+        "Mısır Piramitleri & Sfenks",
+        "İstanbul'un Fethi (1453)",
+        "Atlantis Kayıp Kıtası",
+        "Olimpos Dağı Tanrıları",
+        "İskenderiye Kütüphanesi",
+        "Viking İstilası & Valhalla",
+        "Gladyatör Arenası (Kolezyum)",
+        "Bermuda Şeytan Üçgeni",
+        "Ay'a İlk İniş (Apollo 11)",
+        "Çernobil Nükleer Felaketi",
+        "Büyük İpek Yolu Kervanı",
+        "Orta Çağ Cadı Avı",
+        "Samuraylar ve Bushido",
+        "Fransız İhtilali",
+        "Göbeklitepe Tapınağı",
+        "Nuh'un Gemisi",
+        "Kral Arthur ve Excalibur",
+        "51. Bölge (Area 51)",
+        "Pompeii Yanardağ Felaketi",
+        "Büyük Çin Seddi",
+        "Aztek Güneş Tapınağı",
+        "Rönesans Dönemi Floransa",
+        "Soğuk Savaş Casusluğu",
+        "Vahşi Batı Altına Hücum",
+        "Titanik'in Batışı",
+        "Babil'in Asma Bahçeleri",
+        "Medusa'nın Laneti"
+      ],
+      "name": "Tarih, Mitoloji & Gizem",
+      "description": "Tarihi olaylar, mitolojik efsaneler ve gizemli kavramlar (28 Kart)",
+      "id": "tarih_mitoloji",
+      "icon": "Compass"
+    }
+  },
+  "whoami": {
+    "sosyal_tipler": {
+      "icon": "Users",
+      "description": "Günlük hayatta herkesin karşılaştığı tanıdık insan profilleri",
+      "items": [
+        {
+          "hint": "Okul Hayatının Klasik Karakteri",
+          "name": "Sınavdan \"Kötü Geçti\" Deyip 95 Alan Öğrenci"
+        },
+        {
+          "hint": "Topu Alınca Kimseye Pas Vermeyen Tip",
+          "name": "Halı Sahada Kaleye Geçmek İstemeyen Forvet"
+        },
+        {
+          "hint": "Sabırsız Şoför Profili",
+          "name": "Trafikte Yeşil Yanar Yanmaz Korna Çalan Sürücü"
+        },
+        {
+          "hint": "Bir Hafta Sonra Salonu Bırakan Tip",
+          "name": "Spora Başlayıp İlk Gün Story Atan Kişi"
+        },
+        {
+          "hint": "Cüzdanını Yavaş Çıkaran Tip",
+          "name": "Hesap Gelince Bağcığını Bağlayan Arkadaş"
+        },
+        {
+          "hint": "Bayram Ziyaretlerinin Klasiği",
+          "name": "Her Sohbeti Kendi Askerlik Anısına Bağlayan Amca"
+        },
+        {
+          "hint": "Salı Günü Tatlı Yiyen Profil",
+          "name": "Diyetine Her Pazartesi Başlayan Kişi"
+        },
+        {
+          "hint": "Toplu Taşıma Klasiği",
+          "name": "Klima Açılınca \"Çarpar Kapatın\" Diyen Yolcu"
+        },
+        {
+          "hint": "Bahanesi Hazır Gamer",
+          "name": "Oyun Kaybedince \"Ping Vardı / Kol Bozuk\" Diyen Oyuncu"
+        },
+        {
+          "hint": "Yoğurt Kabı Koleksiyoncusu",
+          "name": "Evdeki Her Şeyi \"Lazım Olur\" Diye Saklayan Anne"
+        },
+        {
+          "hint": "Sahilde Akdeniz Akşamları Çalan Tip",
+          "name": "Gitar Çalarak Ortama Giren Kampçı"
+        },
+        {
+          "hint": "Kargo Kuryesiyle Kanka Olan Tip",
+          "name": "İndirimde İhtiyacı Olmayan Şeyi Alan Alışverişkolik"
+        },
+        {
+          "hint": "Spoiler İsteyen İzleyici",
+          "name": "Film İzlerken Sürekli \"Şimdi Ne Olacak?\" Diye Soran Kişi"
+        },
+        {
+          "hint": "Sunum Günü Ortaya Çıkan Tip",
+          "name": "Grup Ödevinde Hiçbir Şey Yapmayıp İsmini Yazdıran Öğrenci"
+        },
+        {
+          "hint": "\"Metroya 5 Dakika\" Diyen Profil",
+          "name": "Evini Satmaya Çalışırcasına Öven Emlakçı"
+        },
+        {
+          "hint": "\"Üç Vakte Kadar...\"",
+          "name": "Kahve Falında Her Şeyi Yolculuğa Yorup Tutturan Falcı"
+        },
+        {
+          "hint": "Otel Havuzu Stratejisti",
+          "name": "Tatilde Sabah 6'da Şezlonga Havlu Atan Tatilci"
+        },
+        {
+          "hint": "\"Bu Coin Uçacak\" Diyen Tip",
+          "name": "Kripto Para Grafiği Bakmaktan Uyuyamayan Yatırımcı"
+        },
+        {
+          "hint": "Çay Yanı Klasiği",
+          "name": "Misafirliğe Gelip \"Hiçbir Şey Yemeyeceğim\" Deyip Her Şeyi Yiyen Teyze"
+        },
+        {
+          "hint": "Nostaljik Büyük",
+          "name": "Sürekli \"Eskiden Buralar Dutluktu\" Diyen Mahalleli"
+        }
+      ],
+      "id": "sosyal_tipler",
+      "name": "Sosyal Tipler & Klişeler"
+    },
+    "mitoloji_fantastik": {
+      "name": "Mitolojik & Fantastik Varlıklar",
+      "items": [
+        {
+          "hint": "Yunan Mitolojisinde Şimşek Tanrısı",
+          "name": "Zeus"
+        },
+        {
+          "hint": "İskandinav Mitolojisinde Çekiçli Gök Gürültüsü Tanrısı",
+          "name": "Thor"
+        },
+        {
+          "hint": "Kurnazlık ve Hile Tanrısı",
+          "name": "Loki"
+        },
+        {
+          "hint": "Saçları Yılan Olan, Gözüne Bakanları Taşa Çeviren Varlık",
+          "name": "Medusa"
+        },
+        {
+          "hint": "Küllerinden Yeniden Doğan Ateş Kuşu",
+          "name": "Anka Kuşu (Phoenix)"
+        },
+        {
+          "hint": "Transilvanyalı Ünlü Vampir",
+          "name": "Kont Drakula"
+        },
+        {
+          "hint": "Dolunayda Dönüşen Efsanevi Yaratık",
+          "name": "Kurtadam (Werewolf)"
+        },
+        {
+          "hint": "Yarı İnsan Yarı Balık Okyanus Varlığı",
+          "name": "Denizkızı (Mermaid)"
+        },
+        {
+          "hint": "Alnında Tek Boynuzu Olan Büyülü At",
+          "name": "Tekboynuz (Unicorn)"
+        },
+        {
+          "hint": "Kanatlı Beyaz Mitolojik At",
+          "name": "Pegasus"
+        },
+        {
+          "hint": "Labirentte Yaşayan Boğa Başlı Dev",
+          "name": "Minotaur"
+        },
+        {
+          "hint": "Denizlerin ve Depremlerin Tanrısı",
+          "name": "Poseidon"
+        },
+        {
+          "hint": "Yeraltı Dünyasının Hükümdarı",
+          "name": "Hades"
+        },
+        {
+          "hint": "Alnında Tek Gözü Olan Dede Korkut Dev Karakteri",
+          "name": "Tepegöz"
+        },
+        {
+          "hint": "Yarı Kadın Yarı Yılan Bilge Efsanevi Varlık",
+          "name": "Şahmeran"
+        },
+        {
+          "hint": "Lambadan Çıkıp 3 Dilek Hakkı Veren Varlık",
+          "name": "Alaaddin'in Cini"
+        },
+        {
+          "hint": "Ormanlarda Yaşadığı Söylenen Gizemli Yaratık",
+          "name": "Kocaayak (Bigfoot)"
+        },
+        {
+          "hint": "Piramitlerde Sargılar İçinde Uyuyan Varlık",
+          "name": "Mısır Mumyası"
+        },
+        {
+          "hint": "Hazine Üstünde Uyuyan Ateş Püskürten Dev Sürüngen",
+          "name": "Ejderha (Dragon)"
+        },
+        {
+          "hint": "Masallardaki Zeki ve Şanslı Kahraman",
+          "name": "Keloğlan"
+        }
+      ],
+      "id": "mitoloji_fantastik",
+      "description": "Efsanelerden, mitolojiden ve fantastik dünyalardan varlıklar",
+      "icon": "Flame"
+    },
+    "oyun_anime_ikonlari": {
+      "items": [
+        {
+          "hint": "Beyaz Saçlı Canavar Avcısı (Witcher)",
+          "name": "Geralt of Rivia"
+        },
+        {
+          "hint": "Sparta Hayaleti & Savaş Tanrısı",
+          "name": "Kratos"
+        },
+        {
+          "hint": "Mantar Krallığı'nın Bıyıklı Tesisatçısı",
+          "name": "Mario"
+        },
+        {
+          "hint": "Sarı Elektrikli Pokémon",
+          "name": "Pikachu"
+        },
+        {
+          "hint": "Vahşi Batı Kanun Kaçağı (RDR2)",
+          "name": "Arthur Morgan"
+        },
+        {
+          "hint": "Grove Street sakini (GTA San Andreas)",
+          "name": "CJ (Carl Johnson)"
+        },
+        {
+          "hint": "Hawaii Gömlekli Vice City Patronu",
+          "name": "Tommy Vercetti"
+        },
+        {
+          "hint": "Yeşil Zırhlı Uzay Süper Askeri (Halo)",
+          "name": "Master Chief"
+        },
+        {
+          "hint": "Mezar Yağmacısı Maceracı Arkeolog",
+          "name": "Lara Croft"
+        },
+        {
+          "hint": "Barkodlu Kel Suikastçı",
+          "name": "Agent 47 (Hitman)"
+        },
+        {
+          "hint": "Rüzgar Tekniği Kullanan LoL Şampiyonu",
+          "name": "Yasuo"
+        },
+        {
+          "hint": "Mantar Tuzakları Kuran Küçük LoL Şampiyonu",
+          "name": "Teemo"
+        },
+        {
+          "hint": "Rüzgar Bıçaklı Koreli Valorant Ajanı",
+          "name": "Jett"
+        },
+        {
+          "hint": "Levyeli Teorik Fizikçi (Half-Life)",
+          "name": "Gordon Freeman"
+        },
+        {
+          "hint": "Küp Dünyasında Ağaç Yumruklayan Karakter",
+          "name": "Steve (Minecraft)"
+        },
+        {
+          "hint": "Hokage Olmak İsteyen Turuncu Giysili Ninja",
+          "name": "Uzumaki Naruto"
+        },
+        {
+          "hint": "Hasır Şapkalı Lastik Korsan",
+          "name": "Monkey D. Luffy"
+        },
+        {
+          "hint": "Evrenin En Güçlü Saiyan Savaşçısı",
+          "name": "Son Goku"
+        },
+        {
+          "hint": "Ölüm Defteri'ni Bulan Öğrenci",
+          "name": "Light Yagami (Kira)"
+        },
+        {
+          "hint": "Tatlı Seven Dahi Dedektif",
+          "name": "L (Death Note)"
+        },
+        {
+          "hint": "Dev Avlayan En Güçlü Yüzbaşı (AoT)",
+          "name": "Levi Ackerman"
+        },
+        {
+          "hint": "Özgürlük Takıntılı Dev Dönüşümcüsü",
+          "name": "Eren Yeager"
+        },
+        {
+          "hint": "Göz Bandı Takan Beyaz Saçlı Büyücü (JJK)",
+          "name": "Satoru Gojo"
+        },
+        {
+          "hint": "Buz Güçlü Mortal Kombat Ninjası",
+          "name": "Sub-Zero"
+        },
+        {
+          "hint": "\"Get Over Here!\" Diyen Ateşli Ninja",
+          "name": "Scorpion"
+        }
+      ],
+      "description": "Video oyunlarının ve anime evrenlerinin efsane karakterleri",
+      "name": "Oyun & Anime İkonları",
+      "icon": "Gamepad2",
+      "id": "oyun_anime_ikonlari"
+    },
+    "hayvanlar_nesneler": {
+      "icon": "Cat",
+      "items": [
+        {
+          "hint": "Ağaçta Çok Yavaş Hareket Eden Canlı",
+          "name": "Tembel Hayvan (Sloth)"
+        },
+        {
+          "hint": "Bulunduğu Ortama Göre Renk Değiştiren Sürüngen",
+          "name": "Bukalemun"
+        },
+        {
+          "hint": "Mutfakta Patlama Korkusu Yaratan Eşya",
+          "name": "Düdüklü Tencere"
+        },
+        {
+          "hint": "Kimseye Eyvallahı Olmayan Tüylü Dost",
+          "name": "İstanbul Sokak Kedisi"
+        },
+        {
+          "hint": "Smokin Giymiş Gibi Duran Uçamayan Kuş",
+          "name": "Penguen"
+        },
+        {
+          "hint": "Çorap Teklerini Yutan Beyaz Eşya",
+          "name": "Çamaşır Makinesi"
+        },
+        {
+          "hint": "Çölde Yaşayan Dikenli Bitki",
+          "name": "Kaktüs"
+        },
+        {
+          "hint": "Gece Kulağının Dibinde Vızıldayan Böcek",
+          "name": "Sivrisinek"
+        },
+        {
+          "hint": "Koltuk Minderleri Arasında Kaybolan Cihaz",
+          "name": "Televizyon Kumandası"
+        },
+        {
+          "hint": "Ördek Gagalı Yumurtlayan Memeli Hayvan",
+          "name": "Ornitorenk"
+        },
+        {
+          "hint": "Güdümlü Füze Gibi Hedefi Bulan Ev Eşyası",
+          "name": "Anne Terliği"
+        },
+        {
+          "hint": "Öğrenci Evinin En Çok Çalışan Cihazı",
+          "name": "Tost Makinesi"
+        },
+        {
+          "hint": "Evini Sırtında Taşıyan Uzun Ömürlü Canlı",
+          "name": "Kaplumbağa"
+        },
+        {
+          "hint": "8 Kollu Zeki Deniz Canlısı",
+          "name": "Ahtapot"
+        },
+        {
+          "hint": "Evde Kendi Kendine Gezip Halıya Takılan Cihaz",
+          "name": "Robot Süpürge"
+        },
+        {
+          "hint": "Sabahların En Nefret Edilen Sesi",
+          "name": "Alarmlı Saat"
+        },
+        {
+          "hint": "Tek Ayak Üstünde Duran Pembe Kuş",
+          "name": "Flamingo"
+        },
+        {
+          "hint": "Vurarak Seçilen Yaz Meyvesi",
+          "name": "Karpuz"
+        },
+        {
+          "hint": "Mavi Göz Şeklinde Koruyucu Tılsım",
+          "name": "Nazar Boncuğu"
+        },
+        {
+          "hint": "Üç Renkli Yol Gösterici Direk",
+          "name": "Trafik Lambası"
+        },
+        {
+          "hint": "Kısır, Börek ve Yaprak Sarma Dolu Tabak",
+          "name": "Altın Günü Tabağı"
+        },
+        {
+          "hint": "Kış Gecelerinde Ayak Isıtan Lastik Eşya",
+          "name": "Sıcak Su Torbası"
+        },
+        {
+          "hint": "Eskiden Televizyonun Üstüne Serilen El İşi",
+          "name": "Dantel Örtü"
+        },
+        {
+          "hint": "Korkusuzluğuyla Ünlü Vahşi Hayvan",
+          "name": "Bal Porsuğu"
+        },
+        {
+          "hint": "İnsan Sesini Taklit Eden Renkli Kuş",
+          "name": "Papağan"
+        }
+      ],
+      "id": "hayvanlar_nesneler",
+      "name": "Hayvanlar & Absürt Eşyalar",
+      "description": "Eğlenceli hayvanlar, ev eşyaları ve tahmin etmesi zor nesneler"
+    },
+    "unluler_tarih": {
+      "description": "Dünya ve Türkiye'den tanınmış simalar, liderler, bilim insanları, sanatçılar",
+      "icon": "Crown",
+      "id": "unluler_tarih",
+      "name": "Ünlüler & Tarihi Kişiler",
+      "items": [
+        {
+          "hint": "Bilim İnsanı • İzafiyet Teorisi",
+          "name": "Albert Einstein"
+        },
+        {
+          "hint": "Tarihi Lider • Osmanlı Padişahı",
+          "name": "Fatih Sultan Mehmet"
+        },
+        {
+          "hint": "Efsanevi Müzisyen • 7'den 77'ye",
+          "name": "Barış Manço"
+        },
+        {
+          "hint": "Yeşilçam Efsanesi • Şaban",
+          "name": "Kemal Sunal"
+        },
+        {
+          "hint": "Portekizli Yıldız Futbolcu",
+          "name": "Cristiano Ronaldo"
+        },
+        {
+          "hint": "Arjantinli Yıldız Futbolcu",
+          "name": "Lionel Messi"
+        },
+        {
+          "hint": "Teknoloji Milyarderi • Uzay & Otomobil",
+          "name": "Elon Musk"
+        },
+        {
+          "hint": "Türk Stand-up Komedyeni & Yönetmen",
+          "name": "Cem Yılmaz"
+        },
+        {
+          "hint": "Türk Pop Müziği Megastarı",
+          "name": "Tarkan"
+        },
+        {
+          "hint": "Rönesans Ressamı & Mucit",
+          "name": "Leonardo da Vinci"
+        },
+        {
+          "hint": "Alternatif Akım & Elektrik Dehası",
+          "name": "Nikola Tesla"
+        },
+        {
+          "hint": "Antik Mısır'ın Son Kraliçesi",
+          "name": "Kleopatra"
+        },
+        {
+          "hint": "Popun Kralı • Moonwalk",
+          "name": "Michael Jackson"
+        },
+        {
+          "hint": "Televizyon Yapımcısı & Medya Patronu",
+          "name": "Acun Ilıcalı"
+        },
+        {
+          "hint": "Futbol Teknik Direktörü (İmparator)",
+          "name": "Fatih Terim"
+        },
+        {
+          "hint": "Genç Türk Milli Futbolcu",
+          "name": "Arda Güler"
+        },
+        {
+          "hint": "Gündüz Kuşağı TV Programcısı",
+          "name": "Müge Anlı"
+        },
+        {
+          "hint": "Ünlü Türk Tarihçi & Profesör",
+          "name": "İlber Ortaylı"
+        },
+        {
+          "hint": "Jeolog & Akademisyen",
+          "name": "Celal Şengör"
+        },
+        {
+          "hint": "Antik Roma İmparatoru",
+          "name": "Julius Caesar (Sezar)"
+        },
+        {
+          "hint": "Yeşilçam'ın Masalcı Teyzesi",
+          "name": "Adile Naşit"
+        },
+        {
+          "hint": "Sanat Güneşi • Türk Sanat Müziği",
+          "name": "Zeki Müren"
+        },
+        {
+          "hint": "Yeşilçam Aksiyon & Tarih Efsanesi",
+          "name": "Cüneyt Arkın"
+        },
+        {
+          "hint": "Arabesk Müziğin Babası",
+          "name": "Müslüm Gürses"
+        },
+        {
+          "hint": "Minik Serçe • Türk Pop Müziği",
+          "name": "Sezen Aksu"
+        },
+        {
+          "hint": "Emmy Ödüllü Usta Tiyatro ve Sinema Oyuncusu",
+          "name": "Haluk Bilginer"
+        },
+        {
+          "hint": "Tuz Serpme Hareketiyle Ünlü Kasap/Şef",
+          "name": "Nusret Gökçe (Salt Bae)"
+        },
+        {
+          "hint": "Kara Delikler Üzerine Çalışan Astrofizikçi",
+          "name": "Stephen Hawking"
+        },
+        {
+          "hint": "Meksikalı Ressam",
+          "name": "Frida Kahlo"
+        },
+        {
+          "hint": "Fransız İmparator & Komutan",
+          "name": "Napolyon Bonapart"
+        }
+      ]
+    },
+    "kurgusal_karakterler": {
+      "icon": "Sparkles",
+      "items": [
+        {
+          "hint": "Star Wars • Karanlık Taraf",
+          "name": "Darth Vader"
+        },
+        {
+          "hint": "Londralı Ünlü Dedektif",
+          "name": "Sherlock Holmes"
+        },
+        {
+          "hint": "Yarasadan İlham Alan Süper Kahraman",
+          "name": "Batman (Bruce Wayne)"
+        },
+        {
+          "hint": "Makyajlı Kaos Suçlusu",
+          "name": "Joker"
+        },
+        {
+          "hint": "Orta Dünya'nın Gri/Ak Büyücüsü",
+          "name": "Gandalf"
+        },
+        {
+          "hint": "Kimya Öğretmeni • Breaking Bad",
+          "name": "Walter White (Heisenberg)"
+        },
+        {
+          "hint": "Kurtlar Vadisi Başrolü",
+          "name": "Polat Alemdar"
+        },
+        {
+          "hint": "Aşk-ı Memnu Efsane Karakteri",
+          "name": "Bihter Ziyagil"
+        },
+        {
+          "hint": "Avrupa Yakası İdari Müdürü",
+          "name": "Burhan Altıntop"
+        },
+        {
+          "hint": "Bikini Kasabası Aşçısı",
+          "name": "SüngerBob KareŞort"
+        },
+        {
+          "hint": "Bataklıkta Yaşayan Yeşil Dev",
+          "name": "Shrek"
+        },
+        {
+          "hint": "Karayip Korsanları'nın Tuhaf Kaptanı",
+          "name": "Kaptan Jack Sparrow"
+        },
+        {
+          "hint": "Teknoloji Zırhlı Marvel Kahramanı",
+          "name": "Iron Man (Tony Stark)"
+        },
+        {
+          "hint": "Yüzüklerin Efendisi • Kıymetlimisss!",
+          "name": "Gollum (Smeagol)"
+        },
+        {
+          "hint": "İntikam İçin Yüzünü Değiştiren Karakter",
+          "name": "Ezel Bayraktar"
+        },
+        {
+          "hint": "G.O.R.A. • Halı Satıcısı & Uzay Tutsak",
+          "name": "Arif Işık"
+        },
+        {
+          "hint": "Ankaralı Cinayet Büro Başkomiseri",
+          "name": "Behzat Ç."
+        },
+        {
+          "hint": "Kireçburnu'nda Leyla'sını Arayan Karakter",
+          "name": "Mecnun Çınar"
+        },
+        {
+          "hint": "Gemiyi Bekleyen Renkli Ceketli Karakter",
+          "name": "İsmail Abi"
+        },
+        {
+          "hint": "Arkadaşı İlkkan ile Sürekli Absürt Olaylar Yaşayan Karakter",
+          "name": "Yılmaz (Gibi)"
+        },
+        {
+          "hint": "Alnında Şimşek İzi Olan Genç Büyücü",
+          "name": "Harry Potter"
+        },
+        {
+          "hint": "Hogwarts İksir Profesörü",
+          "name": "Severus Snape"
+        },
+        {
+          "hint": "Gece Nöbeti Komutanı • Game of Thrones",
+          "name": "Jon Snow"
+        },
+        {
+          "hint": "Zeki ve Politik Cüce Soylu • Game of Thrones",
+          "name": "Tyrion Lannister"
+        },
+        {
+          "hint": "Matrix'teki Seçilmiş Kişi",
+          "name": "Neo (Thomas Anderson)"
+        },
+        {
+          "hint": "Baba (The Godfather) Mafya Lideri",
+          "name": "Vito Corleone"
+        },
+        {
+          "hint": "Sabun Satıcısı • Dövüş Kulübü",
+          "name": "Tyler Durden"
+        },
+        {
+          "hint": "Agresif ve Komik Film Karakteri",
+          "name": "Recep İvedik"
+        },
+        {
+          "hint": "Hababam Sınıfı'nın Saf ve Sevilen Öğrencisi",
+          "name": "İnek Şaban"
+        },
+        {
+          "hint": "Özlü Sözleriyle Bilinen Kabadayı Karakter",
+          "name": "Ramiz Dayı"
+        }
+      ],
+      "id": "kurgusal_karakterler",
+      "description": "Yerli ve yabancı dizi/film dünyasının ikonik karakterleri",
+      "name": "Dizi & Film Karakterleri"
+    }
+  }
+}
